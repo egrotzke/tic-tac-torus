@@ -1,0 +1,14 @@
+body {
+	width: 100%;
+	height: 100%;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.gameStatus {
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #363636;
+}
